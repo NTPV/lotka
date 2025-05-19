@@ -10,4 +10,4 @@
 График зависимости популяций и Фазовый портрет. 
 
 **Страница на GitHub Pages:**
-https://sergeysmd.github.io/Mat_model_Lotka_Valterra/
+https://ntpv.github.io/lotka/
