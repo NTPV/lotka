@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.btns {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  max-width: 600px; /* Ограничение ширины для мобильных устройств */
+}
+
+.btns_item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ccc; /* Граница для каждого параметра */
+  border-radius: 5px;
+  background-color: #f9f9f9; /* Фоновый цвет для лучшей видимости */
+}
+
+.desc {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #555;
+}
+
+.graphics {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: 600px; /* Ограничение ширины для графиков */
+}
+
+.plot-container {
+  width: 100%;
+  margin: 20px 0; /* Отступ между графиками */
+  border: 1px solid #ccc; /* Граница для графиков */
+  border-radius: 5px;
+  background-color: #fff; /* Фоновый цвет для графиков */
+  padding: 10px; /* Отступ внутри контейнера графика */
+}
