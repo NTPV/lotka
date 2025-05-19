@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Lotka/static/css/main.39fc76be.chunk.css",
+    "main.js": "/Lotka/static/js/main.1ad10c29.chunk.js",
+    "main.js.map": "/Lotka/static/js/main.1ad10c29.chunk.js.map",
+    "runtime-main.js": "/Lotka/static/js/runtime-main.911f83ef.js",
+    "runtime-main.js.map": "/Lotka/static/js/runtime-main.911f83ef.js.map",
+    "static/css/2.25f1cd1f.chunk.css": "/Lotka/static/css/2.25f1cd1f.chunk.css",
+    "static/js/2.436c1775.chunk.js": "/Lotka/static/js/2.436c1775.chunk.js",
+    "static/js/2.436c1775.chunk.js.map": "/Lotka/static/js/2.436c1775.chunk.js.map",
+    "static/js/3.9a4f1f10.chunk.js": "/Lotka/static/js/3.9a4f1f10.chunk.js",
+    "static/js/3.9a4f1f10.chunk.js.map": "/Lotka/static/js/3.9a4f1f10.chunk.js.map",
+    "index.html": "/Lotka/index.html",
+    "static/css/2.25f1cd1f.chunk.css.map": "/Lotka/static/css/2.25f1cd1f.chunk.css.map",
+    "static/css/main.39fc76be.chunk.css.map": "/Lotka/static/css/main.39fc76be.chunk.css.map",
+    "static/js/2.436c1775.chunk.js.LICENSE.txt": "/Lotka/static/js/2.436c1775.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.911f83ef.js",
+    "static/css/2.25f1cd1f.chunk.css",
+    "static/js/2.436c1775.chunk.js",
+    "static/css/main.39fc76be.chunk.css",
+    "static/js/main.1ad10c29.chunk.js"
+  ]
+}
