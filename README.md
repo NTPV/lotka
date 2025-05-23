@@ -10,4 +10,4 @@
 График зависимости популяций и Фазовый портрет. 
 
 **Страница на GitHub Pages:**
-https://ntpv.github.io/lotka/
+https://ntpv.github.io/lotka
